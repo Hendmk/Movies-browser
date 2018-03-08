@@ -1,0 +1,27 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background: url("movieUP.jpg");
+  /* background: url("hd-black-background.jpg"); */
+  background-attachment: fixed;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+ .btn {
+   margin-left: 16%;
+    background-color: #E5E5E5e5;
+    color: black;
+    font-size: 16px;
+    padding: 14px 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #E5EfEfe5;
+    color: white;
+}
